@@ -10,6 +10,10 @@ Visit [my wiki](https://github.com/CSCMU-65s/cs-wiki101/tree/main/instructions) 
 
 # [Explore the Wiki &#10148;](https://github.com/CSCMU-65s/cs-wiki101/tree/main/instructions)
 
+## Aknowledgement
+
+
+
 ---
 
 Need assistance? Please contact [AppleBoiy](mailto:contact.chaipat@gmail.com) or review the [GitHub status page](https://www.githubstatus.com).
